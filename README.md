@@ -1,18 +1,18 @@
-<h1 data-importer="text" align="left">##Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
 ###
 
 <br clear="both">
 
-<p data-importer="text" align="left">**Hello, my name is Jesús Antonio, and I live in Tepatitlán Jalisco, México.**</p>
+<p data-importer="text" align="left">Hello, my name is Jesús Antonio, and I live in Tepatitlán Jalisco, México.</p>
 
 ###
 
-<h2 data-importer="text" align="left">##About me</h2>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<p data-importer="text" align="left">**I enjoy playing video games, and my favorite is ARK.**</p>
+<p data-importer="text" align="left">I enjoy playing video games, and my favorite is ARK.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">**I am currently studying and learning programming languages such as...**</h2>
+<h2 data-importer="text" align="left">I am currently studying and learning programming languages such as...</h2>
 
 ###
 
@@ -38,11 +38,11 @@
 
 ###
 
-<h1 data-importer="text" align="left">#My goals</h1>
+<h1 data-importer="text" align="left">My goals</h1>
 
 ###
 
-<p data-importer="text" align="left">**My goals are to finish my studies and get a job in cybersecurity or video game development.**</p>
+<p data-importer="text" align="left">My goals are to finish my studies and get a job in cybersecurity or video game development.</p>
 
 ###
 
